@@ -1,0 +1,31 @@
+{
+  "name": "service-worker-caching-app",
+  "version": "1.0.0",
+  "description": "A simple application demonstrating service worker caching functionality for both HTTP and HTTPS.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "service-worker",
+    "caching",
+    "http",
+    "https"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/yourusername/service-worker-caching-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/service-worker-caching-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/service-worker-caching-app/issues"
+  }
+}
